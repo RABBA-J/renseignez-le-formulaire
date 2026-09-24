@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-self: center ;
+    align-items: center;
+    min-height:30vh ;
+    background-color: rgb(17, 187, 187);
+    border: 
+}
+
+.formulaire{
+    box-shadow: 10px 10px 10px;
+    background: white;
+    backdrop-filter: blur;
+    border: 6px white
+    border-radius: 12px;
+    margin: 40px;
+    padding: 40px;
+    
+    
+
+}
+
+
+    
